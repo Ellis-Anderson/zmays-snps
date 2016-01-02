@@ -3,5 +3,5 @@ Git is really confusing
 I'm immature
 Samples expected from sequencing core 2016-01-01
 
-
-refgen3 downloaded on 2013-01-04
+We downloaded Maize reference genome version: refgen3 on  2016-01-02 from
+https://this-is-a-fake-website.com
